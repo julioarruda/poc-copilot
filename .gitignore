@@ -1,0 +1,45 @@
+# .NET Core
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+## Visual Studio 2015/2017 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+## Visual Studio 2017 auto generated files
+Generated\ Files/
+
+## MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+## Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Rider
+.idea/
+*.sln.iml
+*.csproj.iml
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.vscode
